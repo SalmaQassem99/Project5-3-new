@@ -600,6 +600,10 @@ $margin: 3rem;
   }
 }
 
+.link-address {
+  display: none;
+}
+
 .success-wrapper {
   width: 60%;
   @extend %fixed-position;
